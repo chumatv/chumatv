@@ -119,7 +119,7 @@ print(f"Saved {len(df)} valid records to api_posts_cleaned.csv")
 ---
 
 ## 📫 Contact
-- LinkedIn: [*your link here*  ](https://www.linkedin.com/feed)
+- LinkedIn: (https://www.linkedin.com/feed)
 - Email: chumatv@gmail.com
 
 ---
