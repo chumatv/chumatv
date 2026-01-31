@@ -59,9 +59,11 @@ df_cleaned = df_cleaned.fillna("N/A")
 
 df_cleaned.to_csv("cleaned_data.csv", index=False)
 print("\nCleaned file saved as cleaned_data.csv")
+```
+---
 
 ### 5️⃣ API Integration: Fetching and Validating Public Data
-**Tools:** Python, Requests, Pandas  
+Tools: Python, Requests, Pandas
 A script that retrieves JSON from a public REST API, validates required fields and types, and saves clean data into a CSV file.
 
 ```python
