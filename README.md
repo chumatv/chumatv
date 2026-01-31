@@ -13,7 +13,7 @@
 
 <!-- Rounded pastel buttons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tatiana-chumanova-1b9a22b7/">
+  <a href="https://www.linkedin.com/in/tatiana-chumanova-1b9a22b7">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8BA9C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8BA9C7" style="border-radius:14px;" />
   </a>
   <a href="mailto:your.email@example.com">
@@ -101,7 +101,7 @@ Fetches JSON from a public API, validates fields and types, and exports structur
 
 # 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/tatiana-chumanova-1b9a22b7/  
-- Email: your.email@example.com  
+- LinkedIn: www.linkedin.com/in/tatiana-chumanova-1b9a22b7 
+- Email: chumatv@gmail.com  
 
 <p align="center" style="color:#777;">Thanks for visiting my portfolio • Gracias por visitar mi portafolio</p>
