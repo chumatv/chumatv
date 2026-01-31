@@ -5,13 +5,7 @@
   <img src="https://github.com/chumatv.png" width="150" style="border-radius:50%;" />
 </p>
 
-# 👋 Hi, I'm Tatiana — Data & AI Integration Specialist
 
-I work with data quality, AI data operations, Python automation, and API integrations.  
-My background combines AI annotation, data validation, workflow automation, and system logic.  
-This portfolio includes my practical projects in Python, automation, and AI data workflows.
-
----
 
 ## 🚀 Featured Projects
 
