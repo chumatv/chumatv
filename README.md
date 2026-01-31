@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00AEEF&center=true&vCenter=true&width=700&lines=Tatiana+Chumanova;Data+%26+AI+Integration+Specialist;Python+%7C+APIs+%7C+Automation+%7C+n8n;Data+Quality+%7C+AI+Workflows" />
+</p>
+<p align="center">
+  <img src="https://github.com/chumatv.png" width="150" style="border-radius:50%;" />
+</p>
+
 # 👋 Hi, I'm Tatiana — Data & AI Integration Specialist
 
 I work with data quality, AI data operations, Python automation, and API integrations.  
