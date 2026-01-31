@@ -119,7 +119,7 @@ print(f"Saved {len(df)} valid records to api_posts_cleaned.csv")
 ---
 
 ## 📫 Contact
-- LinkedIn: (https://www.linkedin.com/feed)
+- LinkedIn: www.linkedin.com/in/tatiana-chumanova-1b9a22b7
 - Email: chumatv@gmail.com
 
 ---
