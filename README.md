@@ -11,16 +11,10 @@
 <h1 align="center" style="font-weight:600; color:#2F3437;">Hi, I'm Tatiana</h1>
 <p align="center" style="color:#555;">Data & AI Integration Specialist • Python • Automation • Data Quality</p>
 
-<!-- Rounded pastel buttons -->
+<!-- Single rounded pastel button (LinkedIn only) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tatiana-chumanova-1b9a22b7">
+  <a href="https://www.linkedin.com/in/tatiana-chumanova-1b9a22b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-8BA9C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8BA9C7" style="border-radius:14px;" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-F2B5A7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F2B5A7" style="border-radius:14px;" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CV-Download-B4D6C1?style=for-the-badge&logo=readme&logoColor=white&labelColor=B4D6C1" style="border-radius:14px;" />
   </a>
 </p>
 
@@ -42,6 +36,7 @@ I communicate fluently in **English, Spanish, and Russian**.
 ---
 
 # 🌿 Sobre mí 
+
 Trabajo en la intersección de **integración de datos, automatización y calidad de datos**.  
 Mi enfoque es crear flujos de datos limpios, fiables y estructurados que apoyen sistemas de IA y procesos empresariales.
 
@@ -101,7 +96,6 @@ Fetches JSON from a public API, validates fields and types, and exports structur
 
 # 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/tatiana-chumanova-1b9a22b7 
-- Email: chumatv@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/tatiana-chumanova-1b9a22b7/
 
 <p align="center" style="color:#777;">Thanks for visiting my portfolio • Gracias por visitar mi portafolio</p>
