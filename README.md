@@ -26,7 +26,7 @@
 
 ---
 
-# 🌿 About Me (EN)
+# 🌿 About Me 
 
 I work at the intersection of **data integration, automation, and data quality**.  
 My focus is on building clean, reliable, structured data flows that support AI systems and business processes.
@@ -41,8 +41,7 @@ I communicate fluently in **English, Spanish, and Russian**.
 
 ---
 
-# 🌿 Sobre mí (ES)
-
+# 🌿 Sobre mí 
 Trabajo en la intersección de **integración de datos, automatización y calidad de datos**.  
 Mi enfoque es crear flujos de datos limpios, fiables y estructurados que apoyen sistemas de IA y procesos empresariales.
 
@@ -56,7 +55,7 @@ Hablo **inglés, español y ruso** con fluidez.
 
 ---
 
-# 🧰 Tech Stack (Pastel Notion Style)
+# 🧰 Tech Stack 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-8BA9C7?style=for-the-badge&logo=python&logoColor=white" />
@@ -87,7 +86,7 @@ Fetches JSON from a public API, validates fields and types, and exports structur
 
 ---
 
-# 📊 GitHub Stats (Pastel Theme)
+# 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chumatv&show_icons=true&theme=graywhite&icon_color=8BA9C7&title_color=8BA9C7" height="160" />
